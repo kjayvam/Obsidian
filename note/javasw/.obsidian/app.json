@@ -1,0 +1,13 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "defaultViewMode": "source",
+  "spellcheckLanguages": null,
+  "spellcheck": true,
+  "vimMode": false,
+  "useMarkdownLinks": false,
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "0. index"
+}
