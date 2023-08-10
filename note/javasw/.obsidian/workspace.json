@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ac1fe25e650b148e",
+        "id": "31d9a721d30d2060",
         "type": "tabs",
         "children": [
           {
-            "id": "f377c99a8a68ad78",
+            "id": "4fa41db2c5ab2a02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. 설정/마크다운 작성 방법.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -43,13 +39,13 @@
             }
           },
           {
-            "id": "55ee7902dbecedcd",
+            "id": "e26b32b9099d2582",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -77,59 +73,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "5c93a6b12d924ebd",
     "type": "split",
     "children": [
       {
-        "id": "2d32e860b8bcf86d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "133fd74451ae18ef",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "dce9199b85eec120",
         "type": "tabs",
         "children": [
-          {
-            "id": "b76392e340ef524d",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "0. 설정/마크다운 작성 방법.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "05cfdd553cdaa3dc",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "0. 설정/마크다운 작성 방법.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "54a826aa4e90915e",
             "type": "leaf",
@@ -137,67 +91,112 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "7741faad90f4a727",
+            "id": "0e85345cf83df993",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ac65c579e57a887f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
               "state": {
-                "file": "0. 설정/마크다운 작성 방법.md"
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "f503119ed15cb59e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "693aa9f3d3e4194f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 430.5,
+    "width": 585.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "command-palette:명령어 팔레트 열기": false,
       "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
+      "graph:그래프 뷰 열기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "templates:템플릿 삽입": false
     }
   },
-  "active": "f377c99a8a68ad78",
+  "active": "4fa41db2c5ab2a02",
   "lastOpenFiles": [
-    "0. 설정/0. 내부링크.md",
-    "0. 설정/0. 외부링크.md",
-    "0. 설정/0. 첨부파일링크.md",
-    "0. index/naver.com.md",
+    "Language/명명규칙.md",
     "0. 설정/마크다운 작성 방법.md",
     "0. 설정/옵시디언.md",
+    "0. 설정/옵시디언 단축키.md",
+    "0. 설정/옵시디언 JSP.md",
+    "0. index/무제 파일.md",
+    "0. 설정/0.내부링크.md",
+    "0. 설정/0.첨부파일링크.md",
     "0. index/템플릿 연습.md",
+    "0. index/2023-08-10.md",
+    "0. index/2023-08-02.md",
+    "0. 설정/0.외부링크.md",
+    "무제 파일 1.canvas",
+    "무제 파일.canvas",
     "0. Template/Zettelkasten.md",
+    "0. index/관련내부링크.md",
+    "0. index/외부링크.md",
+    "Language/JavaScript",
+    "Language/Markup/CSS",
+    "Language/Markup/HTML",
+    "Language/Markup",
+    "Framework/Spring",
+    "SQL/Oracle",
+    "Language/Python",
+    "Language/JAVA",
+    "IDE/IntelliJ IDEA",
+    "Framework",
+    "0. 설정/0. 외부링크.md",
+    "마크다운 연습 폴더/마크다운 연습 노트.md",
+    "0. index/naver.com.md",
     "0. index/내부링크^문단.md",
-    "SQLD 요약 1.pdf",
     "27617_41603_044 1.jpg",
     "27617_41603_044.jpg",
-    "imgres 1.htm",
-    "imgres.htm",
-    "SQLD 요약 2.pdf",
-    "SQLD 요약.pdf",
     "0. index/첨부파일링크^블록.md",
-    "0. index/관련내부링크.md",
-    "0. 설정",
     "0. index/2023-08-01.md",
-    "무제 파일.canvas",
-    "마크다운 연습 폴더/마크다운 연습 노트.md",
     "0. index/무제 파일 2.md",
     "0. index/2023-03-18.md",
     "무제 파일.md",
-    "0. index",
     "Pasted image 20230318151307.png",
-    "0. Template",
     "![[Pasted.md",
     "Pasted image 20230318145419.png",
     "Pasted image 20230318145515.png",
@@ -207,18 +206,8 @@
     "Pasted image 20230318145605.png",
     "Pasted image 20230318145520.png",
     "안녕.md",
-    "test노트.md",
-    "test 노트.md",
-    "test.md",
-    "naver.com.md",
-    "www.naver.com.md",
-    "2023-03-18.md",
-    "마크다운 연습/무제 파일.md",
     "마크다운 연습/무제 파일.canvas",
-    "무제 폴더 1",
     "무제 폴더/무제 파일 2.canvas",
-    "무제 폴더/무제 파일 1.canvas",
-    "무제 폴더/무제 파일 1.md",
-    "마크다운 연습 폴더"
+    "무제 폴더/무제 파일 1.canvas"
   ]
 }

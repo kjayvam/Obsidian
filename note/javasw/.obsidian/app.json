@@ -9,5 +9,6 @@
   "showFrontmatter": false,
   "foldHeading": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "0. index"
+  "newFileFolderPath": "0. index",
+  "showUnsupportedFiles": true
 }
