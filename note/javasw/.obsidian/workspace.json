@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "31d9a721d30d2060",
+        "id": "4a48c2bb0ee03e70",
         "type": "tabs",
         "children": [
           {
-            "id": "4fa41db2c5ab2a02",
+            "id": "4fa4d8bfcfde57b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0. 설정/0.내부링크.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#제텔카스텐",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5c93a6b12d924ebd",
@@ -143,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 585.5,
-    "collapsed": true
+    "width": 585.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,56 +158,55 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "4fa41db2c5ab2a02",
+  "active": "693aa9f3d3e4194f",
   "lastOpenFiles": [
-    "Language/명명규칙.md",
-    "0. 설정/마크다운 작성 방법.md",
-    "0. 설정/옵시디언.md",
-    "0. 설정/옵시디언 단축키.md",
-    "0. 설정/옵시디언 JSP.md",
-    "0. index/무제 파일.md",
     "0. 설정/0.내부링크.md",
-    "0. 설정/0.첨부파일링크.md",
     "0. index/템플릿 연습.md",
-    "0. index/2023-08-10.md",
-    "0. index/2023-08-02.md",
+    "0. 설정/마크다운 작성 방법.md",
     "0. 설정/0.외부링크.md",
+    "0. 설정/0.첨부파일링크.md",
+    "0. 설정/옵시디언.md",
+    "0. Obsidian",
+    "0. 설정/특수 기호 읽는 방법.md",
+    "0. 설정/옵시디언 JSP.md",
+    "0. 설정/옵시디언 단축키.md",
+    "0. Template/Zettelkasten.md",
+    "Language/JAVA/Annotation.md",
+    "Language/JAVA/기본 데이터 타입.md",
+    "Language/JAVA/java 상속.md",
+    "Language/Python/Decorator.md",
+    "Language/C#/Attribute.md",
+    "Language/공통/메타프로그래밍(Metaprogramming).md",
+    "무제 폴더 1",
+    "Language/C#",
+    "Language/JAVA/Iterator.md",
+    "Language/공통/정규 표현식.md",
+    "Language/공통/다형성.md",
+    "Language/공통/제어  구문.md",
+    "Language/공통/명명규칙.md",
+    "0. index/무제 파일 1.md",
+    "Language/JAVA/예외처리.md",
+    "Language/JAVA/래퍼 클래스.md",
+    "Language/JAVA/자료형.md",
+    "Pasted image 20230811065738.png",
+    "Language/공통",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
-    "0. Template/Zettelkasten.md",
-    "0. index/관련내부링크.md",
-    "0. index/외부링크.md",
-    "Language/JavaScript",
+    "Language/Markup/JavaScript",
     "Language/Markup/CSS",
     "Language/Markup/HTML",
     "Language/Markup",
     "Framework/Spring",
     "SQL/Oracle",
-    "Language/Python",
-    "Language/JAVA",
-    "IDE/IntelliJ IDEA",
-    "Framework",
-    "0. 설정/0. 외부링크.md",
-    "마크다운 연습 폴더/마크다운 연습 노트.md",
-    "0. index/naver.com.md",
-    "0. index/내부링크^문단.md",
     "27617_41603_044 1.jpg",
     "27617_41603_044.jpg",
-    "0. index/첨부파일링크^블록.md",
-    "0. index/2023-08-01.md",
-    "0. index/무제 파일 2.md",
-    "0. index/2023-03-18.md",
-    "무제 파일.md",
     "Pasted image 20230318151307.png",
-    "![[Pasted.md",
     "Pasted image 20230318145419.png",
     "Pasted image 20230318145515.png",
     "Pasted image 20230318150109.png",
     "Pasted image 20230318150050.png",
     "Pasted image 20230318145709.png",
     "Pasted image 20230318145605.png",
-    "Pasted image 20230318145520.png",
-    "안녕.md",
     "마크다운 연습/무제 파일.canvas",
     "무제 폴더/무제 파일 2.canvas",
     "무제 폴더/무제 파일 1.canvas"
