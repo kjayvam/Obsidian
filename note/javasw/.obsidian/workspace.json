@@ -4,31 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "64746837beab2383",
-        "type": "tabs",
-        "dimension": 67.30310262529832,
-        "children": [
-          {
-            "id": "c291900ec5e15d85",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "8c6715ddd86576e0",
         "type": "tabs",
-        "dimension": 32.69689737470167,
         "children": [
           {
             "id": "467415dc8a9e70ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -115,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md"
+              }
             }
           },
           {
@@ -124,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -171,8 +163,14 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "a382f09533a2a60f",
+  "active": "467415dc8a9e70ee",
   "lastOpenFiles": [
+    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot 생성.md",
+    "Basic Stack/IDE/IntelliJ IDEA/IntelliJ.md",
+    "Exception/이미지/Pasted image 20230812113257.png",
+    "Exception/이미지/Pasted image 20230812112629.png",
+    "Exception/이미지/Pasted image 20230812111228.png",
+    "Exception/Spring Boot/Spring Boot 처음 실행 시 Exception.md",
     "Basic Stack/SQL/공통/TCL.md",
     "Basic Stack/SQL/공통/SQL문.md",
     "Basic Stack/SQL/공통/DML.md",
@@ -181,8 +179,8 @@
     "Basic Stack/SQL/공통/DBMS.md",
     "Basic Stack/SQL/공통",
     "Basic Stack/Language/공통/제어  구문.md",
-    "Basic Stack/Language/공통/정규 표현식.md",
     "Basic Stack/Language/공통/명명규칙.md",
+    "Basic Stack/Language/공통/정규 표현식.md",
     "Basic Stack/Language/공통/메타프로그래밍(Metaprogramming).md",
     "Basic Stack/Language/공통/다형성.md",
     "Basic Stack/Language/공통",
@@ -190,23 +188,19 @@
     "Basic Stack/Language/Python",
     "Basic Stack/Language/Markup/HTML/마크업 작성 방법.md",
     "Basic Stack/Language/Markup/HTML",
-    "Exception/이미지/Pasted image 20230812113257.png",
-    "Exception/이미지/Pasted image 20230812112629.png",
-    "Exception/이미지/Pasted image 20230812111228.png",
-    "Exception/Spring Boot/Spring Boot 처음 실행 시 Exception.md",
     "Exception/이미지",
     "Exception/Spring Boot",
     "Exception",
     "Basic Stack/VCS/Git/이미지/Pasted image 20230812105418.png",
     "Basic Stack/VCS/Git/이미지/Pasted image 20230812105143.png",
-    "Basic Stack/VCS/Git/이미지/Pasted image 20230812103639.png",
     "Basic Stack/VCS/Git/이미지/Pasted image 20230812104659.png",
     "Basic Stack/VCS/Git/이미지/Pasted image 20230812104214.png",
+    "Basic Stack/VCS/Git/이미지/Pasted image 20230812103639.png",
     "Basic Stack/VCS/Git/이미지/Pasted image 20230812103633.png",
     "Basic Stack/VCS/Git/이미지/Pasted image 20230812103335.png",
     "Basic Stack/VCS/Git/이미지",
-    "Basic Stack/VCS/Git/Git.md",
     "Basic Stack/VCS/Git/GitHub Desktop.md",
+    "Basic Stack/VCS/Git/Git.md",
     "Basic Stack/VCS/Git/Git 설치.md",
     "Basic Stack/VCS/VCS.md",
     "Basic Stack/VCS/Git",
@@ -216,9 +210,7 @@
     "Basic Stack/Language/JAVA/자바란.md",
     "Basic Stack/Language/JAVA/자료형.md",
     "Basic Stack/Language/JAVA/예외처리.md",
-    "Basic Stack/Language/JAVA/예약어.md",
     "Basic Stack/Language/JAVA/연산자.md",
-    "Basic Stack/Language/JAVA/배열 for문.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "마크다운 연습/무제 파일.canvas",

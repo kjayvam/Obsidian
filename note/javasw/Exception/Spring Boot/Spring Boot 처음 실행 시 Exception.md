@@ -24,8 +24,6 @@ the consumer was configured to find a library for use during runtime, compatible
 
 ![[Pasted image 20230812113257.png]]
 ![[Pasted image 20230812112629.png]]
-
-
 ### 결과 : 
 ![[Pasted image 20230812112938.png]]
 
