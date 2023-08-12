@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4a48c2bb0ee03e70",
+        "id": "64746837beab2383",
         "type": "tabs",
+        "dimension": 67.30310262529832,
         "children": [
           {
-            "id": "4fa4d8bfcfde57b5",
+            "id": "c291900ec5e15d85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. 설정/0.내부링크.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8c6715ddd86576e0",
+        "type": "tabs",
+        "dimension": 32.69689737470167,
+        "children": [
+          {
+            "id": "467415dc8a9e70ee",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#제텔카스텐",
+                "query": "tag:#정의어",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 585.5
+    "width": 585.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,55 +171,56 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "693aa9f3d3e4194f",
+  "active": "467415dc8a9e70ee",
   "lastOpenFiles": [
-    "0. 설정/0.내부링크.md",
-    "0. index/템플릿 연습.md",
-    "0. 설정/마크다운 작성 방법.md",
-    "0. 설정/0.외부링크.md",
-    "0. 설정/0.첨부파일링크.md",
-    "0. 설정/옵시디언.md",
-    "0. Obsidian",
-    "0. 설정/특수 기호 읽는 방법.md",
-    "0. 설정/옵시디언 JSP.md",
-    "0. 설정/옵시디언 단축키.md",
-    "0. Template/Zettelkasten.md",
-    "Language/JAVA/Annotation.md",
-    "Language/JAVA/기본 데이터 타입.md",
-    "Language/JAVA/java 상속.md",
-    "Language/Python/Decorator.md",
-    "Language/C#/Attribute.md",
-    "Language/공통/메타프로그래밍(Metaprogramming).md",
-    "무제 폴더 1",
-    "Language/C#",
-    "Language/JAVA/Iterator.md",
-    "Language/공통/정규 표현식.md",
-    "Language/공통/다형성.md",
-    "Language/공통/제어  구문.md",
-    "Language/공통/명명규칙.md",
-    "0. index/무제 파일 1.md",
-    "Language/JAVA/예외처리.md",
-    "Language/JAVA/래퍼 클래스.md",
-    "Language/JAVA/자료형.md",
-    "Pasted image 20230811065738.png",
-    "Language/공통",
+    "Exception/이미지/Pasted image 20230812113257.png",
+    "Exception/이미지/Pasted image 20230812112629.png",
+    "Exception/이미지/Pasted image 20230812111228.png",
+    "Exception/Spring Boot/Spring Boot 처음 실행 시 Exception.md",
+    "Exception/이미지",
+    "Exception/Spring Boot",
+    "Exception",
+    "Basic Stack/VCS/Git/이미지/Pasted image 20230812104214.png",
+    "Basic Stack/VCS/Git/이미지/Pasted image 20230812105418.png",
+    "Basic Stack/VCS/Git/이미지/Pasted image 20230812105143.png",
+    "Basic Stack/VCS/Git/이미지/Pasted image 20230812104659.png",
+    "Basic Stack/VCS/Git/이미지/Pasted image 20230812103639.png",
+    "Basic Stack/VCS/Git/이미지/Pasted image 20230812103633.png",
+    "Basic Stack/VCS/Git/이미지/Pasted image 20230812103335.png",
+    "Basic Stack/VCS/Git/이미지",
+    "Basic Stack/VCS/Git/GitHub Desktop.md",
+    "Basic Stack/VCS/Git/Git.md",
+    "Basic Stack/VCS/Git/Git 설치.md",
+    "Basic Stack/VCS/VCS.md",
+    "Basic Stack/VCS/Git",
+    "Basic Stack/VCS",
+    "Basic Stack/SQL/공통/TCL.md",
+    "Basic Stack/SQL/공통/SQL문.md",
+    "Basic Stack/SQL/공통/DML.md",
+    "Basic Stack/SQL/공통/DDL.md",
+    "Basic Stack/SQL/공통/DCL.md",
+    "Basic Stack/SQL/공통/DBMS.md",
+    "Basic Stack/SQL/공통",
+    "Basic Stack/Language/공통/제어  구문.md",
+    "Basic Stack/Language/공통/정규 표현식.md",
+    "Basic Stack/Language/공통/명명규칙.md",
+    "Basic Stack/Language/공통/메타프로그래밍(Metaprogramming).md",
+    "Basic Stack/Language/공통/다형성.md",
+    "Basic Stack/Language/공통",
+    "Basic Stack/Language/Python/Decorator.md",
+    "Basic Stack/Language/Python",
+    "Basic Stack/Language/Markup/HTML/마크업 작성 방법.md",
+    "Basic Stack/Language/Markup/HTML",
+    "Basic Stack/Language/JAVA/이미지/Pasted image 20230811065738.png",
+    "Basic Stack/Language/JAVA/형 변환.md",
+    "Basic Stack/Language/JAVA/접근 지정자.md",
+    "Basic Stack/Language/JAVA/자바란.md",
+    "Basic Stack/Language/JAVA/자료형.md",
+    "Basic Stack/Language/JAVA/예외처리.md",
+    "Basic Stack/Language/JAVA/예약어.md",
+    "Basic Stack/Language/JAVA/연산자.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
-    "Language/Markup/JavaScript",
-    "Language/Markup/CSS",
-    "Language/Markup/HTML",
-    "Language/Markup",
-    "Framework/Spring",
-    "SQL/Oracle",
-    "27617_41603_044 1.jpg",
-    "27617_41603_044.jpg",
-    "Pasted image 20230318151307.png",
-    "Pasted image 20230318145419.png",
-    "Pasted image 20230318145515.png",
-    "Pasted image 20230318150109.png",
-    "Pasted image 20230318150050.png",
-    "Pasted image 20230318145709.png",
-    "Pasted image 20230318145605.png",
     "마크다운 연습/무제 파일.canvas",
     "무제 폴더/무제 파일 2.canvas",
     "무제 폴더/무제 파일 1.canvas"
