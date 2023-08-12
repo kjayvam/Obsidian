@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
+                "file": "Basic Stack/VCS/Git/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md"
+                "file": "Basic Stack/VCS/Git/Git.md"
               }
             }
           },
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
+                "file": "Basic Stack/VCS/Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
+                "file": "Basic Stack/VCS/Git/Git.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,29 +165,11 @@
   },
   "active": "467415dc8a9e70ee",
   "lastOpenFiles": [
-    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot 생성.md",
-    "Basic Stack/IDE/IntelliJ IDEA/IntelliJ.md",
-    "Exception/이미지/Pasted image 20230812113257.png",
+    "Basic Stack/VCS/VCS.md",
     "Exception/이미지/Pasted image 20230812112629.png",
+    "Exception/이미지/Pasted image 20230812113257.png",
     "Exception/이미지/Pasted image 20230812111228.png",
     "Exception/Spring Boot/Spring Boot 처음 실행 시 Exception.md",
-    "Basic Stack/SQL/공통/TCL.md",
-    "Basic Stack/SQL/공통/SQL문.md",
-    "Basic Stack/SQL/공통/DML.md",
-    "Basic Stack/SQL/공통/DDL.md",
-    "Basic Stack/SQL/공통/DCL.md",
-    "Basic Stack/SQL/공통/DBMS.md",
-    "Basic Stack/SQL/공통",
-    "Basic Stack/Language/공통/제어  구문.md",
-    "Basic Stack/Language/공통/명명규칙.md",
-    "Basic Stack/Language/공통/정규 표현식.md",
-    "Basic Stack/Language/공통/메타프로그래밍(Metaprogramming).md",
-    "Basic Stack/Language/공통/다형성.md",
-    "Basic Stack/Language/공통",
-    "Basic Stack/Language/Python/Decorator.md",
-    "Basic Stack/Language/Python",
-    "Basic Stack/Language/Markup/HTML/마크업 작성 방법.md",
-    "Basic Stack/Language/Markup/HTML",
     "Exception/이미지",
     "Exception/Spring Boot",
     "Exception",
@@ -202,14 +184,31 @@
     "Basic Stack/VCS/Git/GitHub Desktop.md",
     "Basic Stack/VCS/Git/Git.md",
     "Basic Stack/VCS/Git/Git 설치.md",
-    "Basic Stack/VCS/VCS.md",
     "Basic Stack/VCS/Git",
     "Basic Stack/VCS",
+    "Basic Stack/SQL/공통/SQL문.md",
+    "Basic Stack/SQL/공통/TCL.md",
+    "Basic Stack/SQL/공통/DML.md",
+    "Basic Stack/SQL/공통/DDL.md",
+    "Basic Stack/SQL/공통/DCL.md",
+    "Basic Stack/SQL/공통/DBMS.md",
+    "Basic Stack/SQL/공통",
+    "Basic Stack/Language/공통/제어  구문.md",
+    "Basic Stack/Language/공통/정규 표현식.md",
+    "Basic Stack/Language/공통/명명규칙.md",
+    "Basic Stack/Language/공통/메타프로그래밍(Metaprogramming).md",
+    "Basic Stack/Language/공통/다형성.md",
+    "Basic Stack/Language/공통",
+    "Basic Stack/Language/Python/Decorator.md",
+    "Basic Stack/Language/Python",
+    "Basic Stack/Language/Markup/HTML/마크업 작성 방법.md",
+    "Basic Stack/Language/Markup/HTML",
     "Basic Stack/Language/JAVA/형 변환.md",
     "Basic Stack/Language/JAVA/접근 지정자.md",
     "Basic Stack/Language/JAVA/자바란.md",
     "Basic Stack/Language/JAVA/자료형.md",
     "Basic Stack/Language/JAVA/예외처리.md",
+    "Basic Stack/Language/JAVA/예약어.md",
     "Basic Stack/Language/JAVA/연산자.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
