@@ -11,8 +11,12 @@
             "id": "467415dc8a9e70ee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Exception/Spring Boot/Spring Boot 처음 실행 시 Exception.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -99,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Exception/Spring Boot/Spring Boot 처음 실행 시 Exception.md"
+              }
             }
           },
           {
@@ -108,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Exception/Spring Boot/Spring Boot 처음 실행 시 Exception.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Exception/Spring Boot/Spring Boot 처음 실행 시 Exception.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,11 +165,11 @@
   },
   "active": "467415dc8a9e70ee",
   "lastOpenFiles": [
-    "Basic Stack/SQL/공통/TCL.md",
     "Basic Stack/SQL/공통/SQL문.md",
-    "Basic Stack/SQL/공통/DDL.md",
+    "Basic Stack/SQL/공통/TCL.md",
     "Basic Stack/SQL/공통/DML.md",
     "Basic Stack/SQL/공통/DCL.md",
+    "Basic Stack/SQL/공통/DDL.md",
     "Basic Stack/SQL/공통/DBMS.md",
     "Basic Stack/SQL/공통",
     "Basic Stack/Language/공통/제어  구문.md",
@@ -174,23 +182,23 @@
     "Basic Stack/Language/Python",
     "Basic Stack/Language/Markup/HTML/마크업 작성 방법.md",
     "Basic Stack/Language/Markup/HTML",
-    "Exception/이미지/Pasted image 20230812112629.png",
     "Exception/이미지/Pasted image 20230812113257.png",
+    "Exception/이미지/Pasted image 20230812112629.png",
     "Exception/이미지/Pasted image 20230812111228.png",
     "Exception/Spring Boot/Spring Boot 처음 실행 시 Exception.md",
     "Exception/이미지",
     "Exception/Spring Boot",
     "Exception",
-    "Basic Stack/VCS/Git/이미지/Pasted image 20230812105418.png",
     "Basic Stack/VCS/Git/이미지/Pasted image 20230812105143.png",
+    "Basic Stack/VCS/Git/이미지/Pasted image 20230812105418.png",
+    "Basic Stack/VCS/Git/이미지/Pasted image 20230812103639.png",
     "Basic Stack/VCS/Git/이미지/Pasted image 20230812104659.png",
     "Basic Stack/VCS/Git/이미지/Pasted image 20230812104214.png",
-    "Basic Stack/VCS/Git/이미지/Pasted image 20230812103639.png",
     "Basic Stack/VCS/Git/이미지/Pasted image 20230812103633.png",
     "Basic Stack/VCS/Git/이미지/Pasted image 20230812103335.png",
     "Basic Stack/VCS/Git/이미지",
-    "Basic Stack/VCS/Git/GitHub Desktop.md",
     "Basic Stack/VCS/Git/Git.md",
+    "Basic Stack/VCS/Git/GitHub Desktop.md",
     "Basic Stack/VCS/Git/Git 설치.md",
     "Basic Stack/VCS/VCS.md",
     "Basic Stack/VCS/Git",
@@ -199,8 +207,8 @@
     "Basic Stack/Language/JAVA/접근 지정자.md",
     "Basic Stack/Language/JAVA/자바란.md",
     "Basic Stack/Language/JAVA/자료형.md",
-    "Basic Stack/Language/JAVA/예약어.md",
     "Basic Stack/Language/JAVA/예외처리.md",
+    "Basic Stack/Language/JAVA/예약어.md",
     "Basic Stack/Language/JAVA/연산자.md",
     "Basic Stack/Language/JAVA/배열 for문.md",
     "무제 파일 1.canvas",
