@@ -16,7 +16,6 @@ server.servlet.encoding.force-response=true
 # spring.mvc.view.prefix=classpath:/resources/**  
 # spring.mvc.view.prefix=/resources/**  
 spring.mvc.view.suffix=.html  
-  
 # OSIV"가 TRUE"의 장점 : 사용자에게 응답 또는 view"가 렌더링 될 때까지 영속성컨텍스트를 유지한다.  
 # 단점 : 실시간 트래픽이 중요한 어플리케이션에서는 DB Connection"이 모자를 수 있다.  
 spring.jpa.open-in-view=false
