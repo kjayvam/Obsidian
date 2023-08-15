@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "f2427c04b74056cc",
+    "id": "1b1c76d3f5e66562",
     "type": "split",
     "children": [
       {
-        "id": "3d3588877bae6d36",
+        "id": "fda5f662624c2208",
         "type": "tabs",
         "children": [
           {
-            "id": "ab9251c33da74205",
+            "id": "d7f3f83b8aad0b67",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "839aec7b93efe684",
+    "id": "dff02edc6ab27e7c",
     "type": "split",
     "children": [
       {
-        "id": "5ebc58067fbbaf6e",
+        "id": "7dd8ee08e8ebefb8",
         "type": "tabs",
         "children": [
           {
-            "id": "0b6fe5372fc20697",
+            "id": "c908b79db79b2b99",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "f8e72a6c19276372",
+            "id": "11ec56ce1f931d82",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "d4240d9ee28ec6cc",
+            "id": "1000f94446daac99",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "58c951e409c20a59",
+    "id": "d5d949651050a4dd",
     "type": "split",
     "children": [
       {
-        "id": "3f0e40327ec140e1",
+        "id": "8f9608819e30d6d8",
         "type": "tabs",
         "children": [
           {
-            "id": "c2ef6783f7d1cb47",
+            "id": "4c72dd8e37a3f603",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "50ed3367ce0ddfd0",
+            "id": "ce41c4b2f01819a8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,38 +103,30 @@
             }
           },
           {
-            "id": "ca987223d8ad33bd",
+            "id": "28386a6dea715fc1",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-<<<<<<< Updated upstream
                 "sortOrder": "frequency",
-=======
-                "sortOrder": "alphabetical",
->>>>>>> Stashed changes
                 "useHierarchy": true
               }
             }
           },
           {
-            "id": "38e44c55656f2503",
+            "id": "7296cff30b191e86",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
           }
-<<<<<<< Updated upstream
         ]
-=======
-        ],
-        "currentTab": 2
->>>>>>> Stashed changes
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,22 +138,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "0b6fe5372fc20697",
+  "active": "d7f3f83b8aad0b67",
   "lastOpenFiles": [
-    "Exception/이미지/Pasted image 20230812125603.png",
-    "Exception/Spring Boot/처음 실행 시 Exception.md",
+    "0. 설정/0. branch.md",
+    "Basic Stack/Framework/Spring Boot/Spring Boot.md",
     "Exception/Spring Boot/DataSource 해결방안.md",
-    "Basic Stack/VCS/Git/Git 용어.md"
-=======
-  "active": "ca987223d8ad33bd",
-  "lastOpenFiles": [
     "Exception/Spring Boot/Spring Boot 처음 실행 시 Exception.md",
     "Exception/이미지/Pasted image 20230812125603.png",
     "Exception/Spring Boot/처음 실행 시 Exception.md",
-    "Exception/Spring Boot/DataSource 해결방안.md",
     "Basic Stack/VCS/Git/Git 용어.md",
     "Basic Stack/Framework/Spring Boot/HTML, CSS, JS 저장위치.md"
->>>>>>> Stashed changes
   ]
 }
