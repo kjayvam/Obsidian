@@ -108,7 +108,11 @@
             "state": {
               "type": "tag",
               "state": {
+<<<<<<< Updated upstream
                 "sortOrder": "frequency",
+=======
+                "sortOrder": "alphabetical",
+>>>>>>> Stashed changes
                 "useHierarchy": true
               }
             }
@@ -121,7 +125,12 @@
               "state": {}
             }
           }
+<<<<<<< Updated upstream
         ]
+=======
+        ],
+        "currentTab": 2
+>>>>>>> Stashed changes
       }
     ],
     "direction": "horizontal",
@@ -137,11 +146,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
+<<<<<<< Updated upstream
   "active": "0b6fe5372fc20697",
   "lastOpenFiles": [
     "Exception/이미지/Pasted image 20230812125603.png",
     "Exception/Spring Boot/처음 실행 시 Exception.md",
     "Exception/Spring Boot/DataSource 해결방안.md",
     "Basic Stack/VCS/Git/Git 용어.md"
+=======
+  "active": "ca987223d8ad33bd",
+  "lastOpenFiles": [
+    "Exception/Spring Boot/Spring Boot 처음 실행 시 Exception.md",
+    "Exception/이미지/Pasted image 20230812125603.png",
+    "Exception/Spring Boot/처음 실행 시 Exception.md",
+    "Exception/Spring Boot/DataSource 해결방안.md",
+    "Basic Stack/VCS/Git/Git 용어.md",
+    "Basic Stack/Framework/Spring Boot/HTML, CSS, JS 저장위치.md"
+>>>>>>> Stashed changes
   ]
 }
