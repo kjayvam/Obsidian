@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "266960c94d0edef6",
+    "id": "f2427c04b74056cc",
     "type": "split",
     "children": [
       {
-        "id": "8f987ed731644cc9",
+        "id": "3d3588877bae6d36",
         "type": "tabs",
         "children": [
           {
-            "id": "40f597c07529eab4",
+            "id": "ab9251c33da74205",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c5d159617e9341b6",
+    "id": "839aec7b93efe684",
     "type": "split",
     "children": [
       {
-        "id": "c3b89858cc7cd12f",
+        "id": "5ebc58067fbbaf6e",
         "type": "tabs",
         "children": [
           {
-            "id": "a382f09533a2a60f",
+            "id": "0b6fe5372fc20697",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +39,7 @@
             }
           },
           {
-            "id": "e26b32b9099d2582",
+            "id": "f8e72a6c19276372",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,15 +54,7 @@
             }
           },
           {
-            "id": "4e7683f75e4c831e",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
-            "id": "89e2580eda576fcd",
+            "id": "d4240d9ee28ec6cc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,37 +65,34 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 300
   },
   "right": {
-    "id": "5c93a6b12d924ebd",
+    "id": "58c951e409c20a59",
     "type": "split",
     "children": [
       {
-        "id": "dce9199b85eec120",
+        "id": "3f0e40327ec140e1",
         "type": "tabs",
         "children": [
           {
-            "id": "54a826aa4e90915e",
+            "id": "c2ef6783f7d1cb47",
             "type": "leaf",
             "state": {
-              "type": "tag",
+              "type": "backlink",
               "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0e85345cf83df993",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "ac65c579e57a887f",
+            "id": "50ed3367ce0ddfd0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -114,98 +103,45 @@
             }
           },
           {
-            "id": "f503119ed15cb59e",
+            "id": "ca987223d8ad33bd",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "tag",
               "state": {
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": true,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "693aa9f3d3e4194f",
+            "id": "38e44c55656f2503",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 585.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:명령어 팔레트 열기": false,
       "switcher:퀵 스위처 열기": false,
-      "canvas:새 캔버스 만들기": false,
       "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "40f597c07529eab4",
+  "active": "0b6fe5372fc20697",
   "lastOpenFiles": [
-    "Exception/Spring Boot/DataSource 해결방안.md",
-    "Exception/Spring Boot/처음 실행 시 Exception.md",
     "Exception/이미지/Pasted image 20230812125603.png",
-    "Exception/이미지/Pasted image 20230812123404.png",
-    "Exception/이미지/Pasted image 20230812113257.png",
-    "Exception/이미지/Pasted image 20230812111228.png",
-    "Exception/이미지/Pasted image 20230812112629.png",
-    "Exception/Spring Boot/파일들이 빨간색일 때.md",
-    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
-    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot 생성.md",
-    "Basic Stack/Framework/Spring Boot/Spring Boot.md",
-    "Basic Stack/VCS/Git/Git 용어.md",
-    "Exception/Spring Boot/Spring Boot 처음 실행 시 Exception.md",
-    "Basic Stack/VCS/Git/Git.md",
-    "Basic Stack/VCS/Git/Git 설치.md",
-    "Basic Stack/VCS/Git/GitHub Desktop.md",
-    "Basic Stack/Language/공통/제어  구문.md",
-    "Basic Stack/Language/공통/메타프로그래밍(Metaprogramming).md",
-    "Basic Stack/Language/공통/명명규칙.md",
-    "Basic Stack/Language/공통/정규 표현식.md",
-    "Basic Stack/Language/공통/다형성.md",
-    "Basic Stack/Language/공통",
-    "Basic Stack/Language/Python/Decorator.md",
-    "Basic Stack/Language/Python",
-    "Basic Stack/Language/Markup/HTML/마크업 작성 방법.md",
-    "Basic Stack/Language/Markup/HTML",
-    "Basic Stack/Language/JAVA/이미지/Pasted image 20230811065738.png",
-    "Basic Stack/Language/JAVA/형 변환.md",
-    "Basic Stack/Language/JAVA/접근 지정자.md",
-    "Basic Stack/Language/JAVA/자바란.md",
-    "Basic Stack/Language/JAVA/자료형.md",
-    "Basic Stack/Language/JAVA/이미지",
-    "Basic Stack/Language/JAVA/예외처리.md",
-    "Basic Stack/Language/JAVA/예약어.md",
-    "Basic Stack/Language/JAVA/연산자.md",
-    "Basic Stack/Language/JAVA",
-    "Basic Stack/Language/C#",
-    "Exception/이미지",
-    "Exception/Spring Boot",
-    "Exception",
-    "Basic Stack/VCS/Git/이미지/Pasted image 20230812105418.png",
-    "Basic Stack/VCS/Git/이미지/Pasted image 20230812105143.png",
-    "Basic Stack/VCS/Git/이미지/Pasted image 20230812104659.png",
-    "Basic Stack/VCS/Git/이미지/Pasted image 20230812103639.png",
-    "Basic Stack/VCS/Git/이미지",
-    "무제 파일 1.canvas",
-    "무제 파일.canvas",
-    "마크다운 연습/무제 파일.canvas",
-    "무제 폴더/무제 파일 2.canvas",
-    "무제 폴더/무제 파일 1.canvas"
+    "Exception/Spring Boot/처음 실행 시 Exception.md",
+    "Exception/Spring Boot/DataSource 해결방안.md",
+    "Basic Stack/VCS/Git/Git 용어.md"
   ]
 }
