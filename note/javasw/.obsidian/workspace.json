@@ -11,8 +11,12 @@
             "id": "77f2440e4ccd2f97",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Basic Stack/Framework/Spring Boot/HTML, CSS, JS, images 저장위치.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Stack/Framework/Spring Boot/Spring Boot.md",
+                "file": "Basic Stack/Framework/Spring Boot/HTML, CSS, JS, images 저장위치.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Stack/Framework/Spring Boot/Spring Boot.md",
+                "file": "Basic Stack/Framework/Spring Boot/HTML, CSS, JS, images 저장위치.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Stack/Framework/Spring Boot/Spring Boot.md"
+                "file": "Basic Stack/Framework/Spring Boot/HTML, CSS, JS, images 저장위치.md"
               }
             }
           }
@@ -142,16 +146,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c908b79db79b2b99",
+  "active": "77f2440e4ccd2f97",
   "lastOpenFiles": [
+    "Basic Stack/Framework/Spring Boot/Spring Boot.md",
+    "Basic Stack/Framework/Spring Boot/HTML, CSS, JS, images 저장위치.md",
     "Exception/이미지/Pasted image 20230812125603.png",
     "Exception/Spring Boot/처음 실행 시 Exception.md",
     "Exception/Spring Boot/DataSource 해결방안.md",
     "Basic Stack/VCS/Git/Git 용어.md",
     "0. 설정/0. branch.md",
-    "Basic Stack/Framework/Spring Boot/Spring Boot 1.md",
-    "Basic Stack/Framework/Spring Boot/Spring Boot.md",
     "Exception/Spring Boot/Spring Boot 처음 실행 시 Exception.md",
-    "Basic Stack/Framework/Spring Boot/HTML, CSS, JS, images 저장위치.md"
+    "Basic Stack/Framework/Spring Boot/Spring Boot 1.md"
   ]
 }
