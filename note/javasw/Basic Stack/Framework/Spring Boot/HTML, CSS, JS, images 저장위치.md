@@ -33,5 +33,5 @@ ___
 
 ### 연결문서
 
-- [[Spring Boot]]
+- [[0.Spring Boot]]
 

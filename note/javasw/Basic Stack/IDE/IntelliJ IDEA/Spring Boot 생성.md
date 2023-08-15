@@ -40,6 +40,6 @@ ___
 
 ### 연결문서
 
-- [[IntelliJ]]
-- [[Spring Boot]]
+- [[0.IntelliJ]]
+- [[0.Spring Boot]]
 

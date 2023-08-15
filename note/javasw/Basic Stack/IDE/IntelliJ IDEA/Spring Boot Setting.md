@@ -32,6 +32,6 @@ ___
 
 ### 연결문서
 
-- [[Spring Boot]]
-- [[IntelliJ]]
+- [[0.Spring Boot]]
+- [[0.IntelliJ]]
 
