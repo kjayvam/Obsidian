@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d1f0daef695977c0",
+        "id": "b74b22ac40a4e6ea",
         "type": "tabs",
         "children": [
           {
-            "id": "8bce0ad13d6d5185",
+            "id": "9f3f44d2fd45a209",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Basic Stack/Framework/Bootstrap/Bootstrap Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Basic Stack/Framework/Bootstrap/Bootstrap Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Basic Stack/Framework/Bootstrap/Bootstrap Template.md"
+              }
             }
           }
         ]
@@ -138,8 +142,25 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "8bce0ad13d6d5185",
+  "active": "c908b79db79b2b99",
   "lastOpenFiles": [
+    "Basic Stack/Framework/Bootstrap/0.이미지/Pasted image 20230817125634.png",
+    "0.Template/Zettelkasten.md",
+    "Basic Stack/Framework/Bootstrap/Bootstrap Template.md",
+    "Basic Stack/Framework/Bootstrap/0.이미지/Pasted image 20230817125254.png",
+    "Basic Stack/Framework/Bootstrap/0.이미지/Pasted image 20230817125352.png",
+    "Basic Stack/Framework/Bootstrap/0.이미지/Pasted image 20230817125258.png",
+    "Basic Stack/Framework/Bootstrap/Bootstrap Download.md",
+    "Basic Stack/Framework/Bootstrap/0.이미지/Pasted image 20230817124942.png",
+    "Basic Stack/Framework/Bootstrap/0.Bootstrap.md",
+    "Basic Stack/Framework/Bootstrap/0.이미지/Pasted image 20230817123830.png",
+    "Basic Stack/Framework/Spring Boot/0.Spring Boot.md",
+    "Basic Stack/Framework/Spring Boot/무제 파일.md",
+    "Basic Stack/Framework/Bootstrap/0.이미지",
+    "Basic Stack/Framework/Spring Framework/0.Spring Framework.md",
+    "Basic Stack/Framework/Bootstrap",
+    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot 생성.md",
+    "Basic Stack/Framework/0.Framework.md",
     "Exception/Spring Boot/로그인 페이지로 자동 이동.md",
     "Exception/Spring Boot/DataSource 해결방안.md",
     "Exception/Spring Boot/처음 실행 시 Exception.md",
@@ -159,15 +180,6 @@
     "Basic Stack/Language/C#/(X)Attribute.md",
     "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
     "Basic Stack/IDE/IntelliJ IDEA/0.IntelliJ.md",
-    "Basic Stack/Framework/0.Framework.md",
-    "Basic Stack/Framework/Spring Boot/0.Spring Boot.md",
-    "0.설정/0.외부링크.md",
-    "0.설정/0.첨부파일링크.md",
-    "Basic Stack/Framework/Spring Framework/0.Spring Framework.md",
-    "0.index/템플릿 연습.md",
-    "0.설정/옵시디언.md",
-    "0.설정/옵시디언 단축키.md",
-    "0.설정/옵시디언 JSP.md",
     "Exception/0.이미지/Pasted image 20230812125603.png"
   ]
 }
