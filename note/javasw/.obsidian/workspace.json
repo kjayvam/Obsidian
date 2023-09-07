@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "b74b22ac40a4e6ea",
+        "id": "946d0ea821537ea6",
         "type": "tabs",
         "children": [
           {
-            "id": "9f3f44d2fd45a209",
+            "id": "184230269a31cc42",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Exam/SQLD/과목 2-1.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8fd6228c006055dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9355ec8342126a6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exam/SQLD/과목 2-3.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Stack/Framework/Bootstrap/Bootstrap Template.md",
+                "file": "Exam/SQLD/과목 2-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Stack/Framework/Bootstrap/Bootstrap Template.md",
+                "file": "Exam/SQLD/과목 2-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Stack/Framework/Bootstrap/Bootstrap Template.md"
+                "file": "Exam/SQLD/과목 2-3.md"
               }
             }
           }
@@ -142,17 +164,73 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "c908b79db79b2b99",
+  "floating": {
+    "id": "f83a34b0aa6b7107",
+    "type": "floating",
+    "children": [
+      {
+        "id": "88c0336022331429",
+        "type": "window",
+        "children": [
+          {
+            "id": "ade0138bfc210113",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5e18c5d46166d3c1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Exam/SQLD/0.과목 안내.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1920,
+        "y": -360,
+        "width": 1280,
+        "height": 1400,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "9355ec8342126a6d",
   "lastOpenFiles": [
-    "Basic Stack/Framework/Bootstrap/0.이미지/Pasted image 20230817125634.png",
+    "Exam/SQLD/과목 2-1.md",
+    "Exam/SQLD/과목 2-3.md",
+    "Exam/SQLD/과목 2-2.md",
+    "Exam/SQLD/과목 1-2.md",
+    "Exam/SQLD/0.과목 안내.md",
+    "Exam/SQLD/과목 1-1.md",
+    "0.설정/마크다운 작성 방법.md",
+    "0.설정/옵시디언.md",
+    "0.설정/옵시디언 JSP.md",
+    "0.설정/옵시디언 단축키.md",
+    "0.설정/0.branch.md",
+    "0.설정/특수 기호 읽는 방법.md",
+    "0.설정/0.첨부파일링크.md",
+    "0.설정/0.외부링크.md",
+    "0.설정/0.내부링크.md",
+    "Basic Stack/Framework/Bootstrap/0.Bootstrap.md",
     "0.Template/Zettelkasten.md",
+    "0.index/템플릿 연습.md",
+    "Exam/SQLD",
+    "Exam/SQLD 요약.md",
+    "Exam",
+    "Basic Stack/Framework/Bootstrap/0.이미지/Pasted image 20230817125634.png",
     "Basic Stack/Framework/Bootstrap/Bootstrap Template.md",
     "Basic Stack/Framework/Bootstrap/0.이미지/Pasted image 20230817125254.png",
     "Basic Stack/Framework/Bootstrap/0.이미지/Pasted image 20230817125352.png",
     "Basic Stack/Framework/Bootstrap/0.이미지/Pasted image 20230817125258.png",
     "Basic Stack/Framework/Bootstrap/Bootstrap Download.md",
     "Basic Stack/Framework/Bootstrap/0.이미지/Pasted image 20230817124942.png",
-    "Basic Stack/Framework/Bootstrap/0.Bootstrap.md",
     "Basic Stack/Framework/Bootstrap/0.이미지/Pasted image 20230817123830.png",
     "Basic Stack/Framework/Spring Boot/0.Spring Boot.md",
     "Basic Stack/Framework/Spring Boot/무제 파일.md",
@@ -161,25 +239,9 @@
     "Basic Stack/Framework/Bootstrap",
     "Basic Stack/IDE/IntelliJ IDEA/Spring Boot 생성.md",
     "Basic Stack/Framework/0.Framework.md",
-    "Exception/Spring Boot/로그인 페이지로 자동 이동.md",
-    "Exception/Spring Boot/DataSource 해결방안.md",
-    "Exception/Spring Boot/처음 실행 시 Exception.md",
     "Pasted image 20230815144724.png",
     "Exception/0.이미지/Pasted image 20230815144618.png",
     "Exception/0.이미지/Pasted image 20230815144350.png",
-    "0.index/무제 파일 1.md",
-    "0.설정/특수 기호 읽는 방법.md",
-    "0.설정/0.branch.md",
-    "0.설정/0.내부링크.md",
-    "Basic Stack/VCS/Git/Git 설치.md",
-    "Basic Stack/VCS/Git/0.Git.md",
-    "Basic Stack/SQL/0.공통/DBMS.md",
-    "Basic Stack/Language/0.공통/메타프로그래밍(Metaprogramming).md",
-    "Basic Stack/Language/Python/(X)Decorator.md",
-    "Basic Stack/Language/JAVA/0.자바란.md",
-    "Basic Stack/Language/C#/(X)Attribute.md",
-    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
-    "Basic Stack/IDE/IntelliJ IDEA/0.IntelliJ.md",
     "Exception/0.이미지/Pasted image 20230812125603.png"
   ]
 }
