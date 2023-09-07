@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam/SQLD/과목 2-1.md",
+                "file": "Exam/SQLD/과목 2-0.md",
                 "mode": "preview",
                 "source": false
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "8fd6228c006055dd",
+        "id": "dd0e857e8e545f53",
         "type": "tabs",
         "children": [
           {
-            "id": "9355ec8342126a6d",
+            "id": "7e86ae2e84890306",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam/SQLD/과목 2-3.md",
+                "file": "Exam/SQLD/과목 2-0.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam/SQLD/과목 2-3.md",
+                "file": "Exam/SQLD/과목 2-0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Exam/SQLD/과목 2-3.md",
+                "file": "Exam/SQLD/과목 2-0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exam/SQLD/과목 2-3.md"
+                "file": "Exam/SQLD/과목 2-0.md"
               }
             }
           }
@@ -164,52 +164,17 @@
       "templates:템플릿 삽입": false
     }
   },
-  "floating": {
-    "id": "f83a34b0aa6b7107",
-    "type": "floating",
-    "children": [
-      {
-        "id": "88c0336022331429",
-        "type": "window",
-        "children": [
-          {
-            "id": "ade0138bfc210113",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5e18c5d46166d3c1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Exam/SQLD/0.과목 안내.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1920,
-        "y": -360,
-        "width": 1280,
-        "height": 1400,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "9355ec8342126a6d",
+  "active": "184230269a31cc42",
   "lastOpenFiles": [
+    "0.설정/마크다운 작성 방법.md",
+    "Exam/SQLD/과목 2-0.md",
+    "0.index/템플릿 연습.md",
     "Exam/SQLD/과목 2-1.md",
-    "Exam/SQLD/과목 2-3.md",
     "Exam/SQLD/과목 2-2.md",
+    "Exam/SQLD/과목 2-3.md",
     "Exam/SQLD/과목 1-2.md",
     "Exam/SQLD/0.과목 안내.md",
     "Exam/SQLD/과목 1-1.md",
-    "0.설정/마크다운 작성 방법.md",
     "0.설정/옵시디언.md",
     "0.설정/옵시디언 JSP.md",
     "0.설정/옵시디언 단축키.md",
@@ -220,7 +185,6 @@
     "0.설정/0.내부링크.md",
     "Basic Stack/Framework/Bootstrap/0.Bootstrap.md",
     "0.Template/Zettelkasten.md",
-    "0.index/템플릿 연습.md",
     "Exam/SQLD",
     "Exam/SQLD 요약.md",
     "Exam",
@@ -238,7 +202,6 @@
     "Basic Stack/Framework/Spring Framework/0.Spring Framework.md",
     "Basic Stack/Framework/Bootstrap",
     "Basic Stack/IDE/IntelliJ IDEA/Spring Boot 생성.md",
-    "Basic Stack/Framework/0.Framework.md",
     "Pasted image 20230815144724.png",
     "Exception/0.이미지/Pasted image 20230815144618.png",
     "Exception/0.이미지/Pasted image 20230815144350.png",
