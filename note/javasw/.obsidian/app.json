@@ -1,7 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "spellcheckLanguages": null,
   "spellcheck": true,
   "vimMode": false,
@@ -10,5 +10,7 @@
   "foldHeading": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "0.index",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "livePreview": false
 }
