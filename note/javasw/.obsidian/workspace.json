@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f806f57c35c53df1",
+        "id": "1add27f25da0c554",
         "type": "tabs",
         "children": [
           {
-            "id": "de9d32b4f344a9c6",
+            "id": "8fc0a46b98cf0cb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Stack/IDE/IntelliJ IDEA/IntelliJ 설치.md",
+                "file": "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "205b189df7f2d964",
+        "id": "3032591da9e5d7c4",
         "type": "tabs",
         "children": [
           {
-            "id": "ce2872e6a9527a42",
+            "id": "1f54dcf43ad3f1bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Stack/IDE/IntelliJ IDEA/IntelliJ 설치.md",
+                "file": "Exception/Spring Boot/Using generated security password.md",
                 "mode": "preview",
                 "source": true
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#제텔카스텐",
+                "query": "tag:#스키마생성",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Stack/IDE/IntelliJ IDEA/IntelliJ 설치.md",
+                "file": "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Stack/IDE/IntelliJ IDEA/IntelliJ 설치.md",
+                "file": "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Stack/IDE/IntelliJ IDEA/IntelliJ 설치.md"
+                "file": "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md"
               }
             }
           },
@@ -176,285 +176,52 @@
       "templates:템플릿 삽입": false
     }
   },
-  "floating": {
-    "id": "7f861437546eaa3b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "adf3e9a97cc18835",
-        "type": "window",
-        "children": [
-          {
-            "id": "547d0e67ada1833e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e0e54b66f4cc7383",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Basic Stack/SQL/0.공통/DCL.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "1ded508b34c3504b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9f9f8dee07cbe004",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Basic Stack/SQL/0.공통/DCL.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1920,
-        "y": 340,
-        "width": 1280,
-        "height": 700,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "198246b1c9674e2d",
-        "type": "window",
-        "children": [
-          {
-            "id": "933bca7cdd9c109e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9dbfeac77267060e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Basic Stack/SQL/0.공통/DDL.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "ed26a1052a9e93d4",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a885eb3cd78ff3d8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Basic Stack/SQL/0.공통/DDL.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1920,
-        "y": -360,
-        "width": 1280,
-        "height": 700,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "56ea0c67054f882f",
-        "type": "window",
-        "children": [
-          {
-            "id": "94f2f57288d11039",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "05641767275847d2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Basic Stack/SQL/0.공통/DML.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "7d1f76712052d0ff",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "100771591c89d9d9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Basic Stack/SQL/0.공통/DML.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3200,
-        "y": -360,
-        "width": 1280,
-        "height": 700,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "917370e679c4d824",
-        "type": "window",
-        "children": [
-          {
-            "id": "a704509e20805c58",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "47c55667663e6ea0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Basic Stack/SQL/0.공통/TCL.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "d52bf1c1e3981449",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d5c9df9603387a43",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Basic Stack/SQL/0.공통/TCL.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3200,
-        "y": 340,
-        "width": 1280,
-        "height": 700,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "aa90c54546914170",
-        "type": "window",
-        "children": [
-          {
-            "id": "2a18e5b2ca515524",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "df248e36fa6e5c24",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Exam/SQLD/과목 2-0.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1348,
-        "y": 291,
-        "width": 785,
-        "height": 1000,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "de9d32b4f344a9c6",
+  "active": "8fc0a46b98cf0cb6",
   "lastOpenFiles": [
-    "Basic Stack/IDE/IntelliJ IDEA/Pasted image 20231230010413.png",
-    "Basic Stack/IDE/IntelliJ IDEA/0.이미지/Pasted image 20231230010344.png",
-    "Basic Stack/IDE/IntelliJ IDEA/플러그인.md",
-    "0.Template/Zettelkasten.md",
-    "Basic Stack/IDE/IntelliJ IDEA/IntelliJ 설치.md",
-    "Basic Stack/IDE/IntelliJ IDEA/단축키.md",
-    "Basic Stack/IDE/IntelliJ IDEA/0.IntelliJ.md",
+    "Exception/Spring Boot/Using generated security password.md",
     "Exception/Spring Boot/처음 실행 시 Exception.md",
-    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
-    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot 생성.md",
-    "Exception/0.이미지/Pasted image 20231229143929.png",
-    "Exception/0.이미지/Pasted image 20231229144144.png",
-    "Exception/IntelliJ IDEA/인텔리제이 한글 깨짐.md",
-    "Exception/IntelliJ IDEA/Pasted image 20231229143911.png",
-    "Exception/IntelliJ IDEA/Pasted image 20231229143915.png",
+    "Exception/0.이미지/Pasted image 20240115165609.png",
+    "Exception/Spring Boot/Cannot find template.md",
+    "Exception/Spring Boot/springsecurity6 오류.md",
     "Exception/Spring Boot/로그인 페이지로 자동 이동.md",
+    "Exception/Spring Boot/org.mariadb.jdbc.Driver.md",
     "Exception/Spring Boot/DataSource 해결방안.md",
+    "Exception/Spring Boot/context Exception.md",
+    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
+    "Exception/0.이미지/Pasted image 20240115161434.png",
+    "Exception/0.이미지/Pasted image 20240115152327.png",
+    "Exception/0.이미지/Pasted image 20240115161411.png",
+    "Exception/0.이미지/Pasted image 20240115163901.png",
+    "Exception/IntelliJ IDEA/인텔리제이 한글 깨짐.md",
+    "Exception/0.이미지/Pasted image 20240115141154.png",
+    "Exception/0.이미지/Pasted image 20240115141343.png",
+    "Basic Stack/SQL/MariaDB/데이터베이스(스키마) 및 테이블 생성 방법.md",
+    "0.Template/Zettelkasten.md",
     "0.index/템플릿 연습.md",
+    "Basic Stack/SQL/MariaDB/MariaDB 설치.md",
+    "Basic Stack/SQL/MariaDB/0.MariaDB란.md",
+    "Exception/0.이미지/Pasted image 20230812125603.png",
+    "Basic Stack/SQL/Oracle/오라클 Port 번호 및 SID 확인 방법.md",
+    "Basic Stack/SQL/Oracle/Oracle SQL Developer.md",
+    "Basic Stack/SQL/Oracle/0.오라클(Oracle)란.md",
+    "Basic Stack/Language/Markup/HTML/마크업 작성 방법.md",
+    "Basic Stack/Language/JAVA/0.자바란.md",
+    "Basic Stack/Framework/Bootstrap/0.Bootstrap.md",
+    "Basic Stack/Framework/Bootstrap/Bootstrap Download.md",
+    "Basic Stack/Framework/Bootstrap/Bootstrap Template.md",
+    "Basic Stack/Framework/Bootstrap 1",
+    "Basic Stack/SQL/MariaDB/0.이미지/Pasted image 20240115100503.png",
+    "Basic Stack/SQL/MariaDB/0.이미지",
+    "Basic Stack/SQL/MariaDB",
+    "Basic Stack/IDE/IntelliJ IDEA/기본설정.md",
+    "Basic Stack/IDE/IntelliJ IDEA/세로줄 없애기.md",
+    "Basic Stack/IDE/IntelliJ IDEA/0.이미지/Pasted image 20231230010413.png",
     "Exception/IntelliJ IDEA",
-    "Basic Stack/VCS/Git/GUI/0.GUI.md",
-    "Basic Stack/VCS/Git/GUI/GitHub Desktop.md",
-    "Basic Stack/VCS/0.VCS.md",
     "Basic Stack/VCS/Git/GUI",
-    "Exam/SQLD/0.SQLD과목 안내.md",
-    "Exam/SQLD/과목 2-0.md",
-    "Basic Stack/IDE/IntelliJ IDEA/0.이미지/Pasted image 20230812112938.png",
-    "Basic Stack/VCS/Git/Git 설치.md",
-    "Basic Stack/VCS/Git/Git 용어.md",
-    "Basic Stack/VCS/Git/0.Git.md",
-    "Basic Stack/Framework/0.Framework.md",
-    "0.설정/마크다운 작성 방법.md",
-    "0.설정/0.branch.md",
-    "0.설정/0.첨부파일링크.md",
-    "0.설정/0.외부링크.md",
     "Exam/정보처리기사/실기",
     "Exam/정보처리기사/필기",
     "Exam/정보처리기사",
     "Exam/SQLD",
-    "Exam",
-    "Basic Stack/Framework/Bootstrap/0.이미지/Pasted image 20230817125634.png",
-    "Basic Stack/Framework/Bootstrap/0.이미지/Pasted image 20230817125254.png",
-    "Basic Stack/Framework/Bootstrap/0.이미지/Pasted image 20230817125352.png",
-    "Basic Stack/Framework/Bootstrap/0.이미지/Pasted image 20230817125258.png",
-    "Basic Stack/Framework/Bootstrap/0.이미지",
-    "Basic Stack/Framework/Bootstrap"
+    "Exam"
   ]
 }

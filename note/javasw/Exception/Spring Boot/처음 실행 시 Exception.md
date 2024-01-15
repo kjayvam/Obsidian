@@ -36,4 +36,4 @@ ___
 ### 연결문서
 
 - [[Spring Boot 생성]]
-
+- [[Spring Boot Setting]]
