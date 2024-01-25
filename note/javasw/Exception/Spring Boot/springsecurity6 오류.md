@@ -9,14 +9,14 @@ ___
 ### Spring security 빌드 : 
 
 Thymeleaf와 security을 build.gradle 코드를 가져오게 될 경우
-```
+``` java
 implementation 'org.thymeleaf.extras:thymeleaf-extras-springsecurity6'
 ```
 
 위의 코드만 들어가게 됩니다.
 아래의 코드를 1개더 추가해서 누락된 코드가 없도록 해야 합니다.
 
-```
+``` java
 implementation 'org.springframework.boot:spring-boot-starter-security'  
 implementation 'org.thymeleaf.extras:thymeleaf-extras-springsecurity6'
 ```

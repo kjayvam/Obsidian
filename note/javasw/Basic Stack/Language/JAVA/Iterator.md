@@ -27,7 +27,8 @@ ___
 ### Iterator VS for-each  
 
 >[!note] Iterator
->```
+>
+> ``` java
 > ArrayList<String> 변수1 = new ArrayList<>();
 > Iterator<String> 변수2 = 변수1.iterator();
 > 
@@ -37,8 +38,10 @@ ___
 > }
 >```
 
+
+
 >[!note] for-each
->```
+>``` java
 > ArrayList<String> 변수1 = new ArrayList<>();
 > 
 > for ( String 변수3 : 변수1 ){
@@ -48,7 +51,7 @@ ___
 
 ### 사용 예제 : 
 
-```
+``` java
 public static void main(String[] args) { 
 	// 컬렉션 생성 
 	ArrayList<String> cars = new ArrayList<>(); 
@@ -73,7 +76,8 @@ public static void main(String[] args) {
 	} 
 }
 ```
-```
+
+``` java
 // 출력 결과 :
 벤츠 
 람보르기니 
@@ -83,7 +87,7 @@ public static void main(String[] args) {
 
 ### set 사용 예제 : 
 
-```
+``` java
 public static void main(String[] args) { 
 	// 컬렉션 생성 
 	Set<String> cars = new HashSet<>(); 
@@ -108,7 +112,7 @@ public static void main(String[] args) {
 }
 ```
 
-```
+``` java
 // 출력 결과 :
 cars : 벤츠 
 cars : 람보르기니 
@@ -119,7 +123,7 @@ cars : 페라리
 
 ### 값을 수정하는 예제 :
 
-```
+``` java
 public static void main(String[] args) { 
 	// 컬렉션 생성 
 	ArrayList<String> list = new ArrayList<>(); 
@@ -152,7 +156,7 @@ public static void main(String[] args) {
 }
 ```
 
-```
+``` java
 // 출력 결과 :
 while문 지나기 전 리스트에 들어있던 값 : [A, B, C, D, E, F] 
 while문 지난 후 수정된 결과 : [A+, B+, C+, D+, E+, F+] 
@@ -169,3 +173,4 @@ ___
 
 ### 연결문서
 
+- [[0.자바란]]

@@ -6,7 +6,7 @@ ___
 
 ![[Pasted image 20230812125603.png]]
 
-```
+``` java
 Action:
 
 Consider the following:
@@ -25,7 +25,7 @@ Consider the following:
 > Spring Boot 에서는 DataSource 를 필요로 하는 아래 같은 의존성이 추가만 되어 있어도
 > 자동으로 DataSource 생성을 시도하기 때문이다.
 
-```
+``` java
 org.springframework.boot:spring-boot-starter-data-jpa
 org.mybatis.spring.boot:mybatis-spring-boot-starter
 ```
@@ -34,7 +34,7 @@ org.mybatis.spring.boot:mybatis-spring-boot-starter
 
 build.gradle 파일에 `com.h2database:h2` 의존성이 제대로 추가되었는지 확인해주세요.
 
-```
+``` java
 dependencies {
 //	implementation 'com.h2database:h2'  
 //	runtimeOnly 'com.h2database:h2'
@@ -57,7 +57,7 @@ dependencies {
 
 > resources 안에 application.properties를 클릭
 
-```
+``` java
 # MariaDB JDBC 드라이버의 클래스 이름
 spring.datasource.driver-class-name=org.mariadb.jdbc.Driver  
 # MariaDB 데이터베이스에 접속할 때 사용할 사용자 이름

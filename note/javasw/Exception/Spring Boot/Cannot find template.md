@@ -10,7 +10,7 @@ ___
 
 ![[Pasted image 20240115163901.png]]
 
-```
+``` java
 Cannot find template location: classpath:/templates/ (please add some templates, check your Thymeleaf configuration, or set spring.thymeleaf.check-template-location=false)
 ```
 

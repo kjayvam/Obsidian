@@ -23,11 +23,8 @@ ___
 
 [MariaDB 커넥터](https://mariadb.com/kb/en/about-mariadb-connector-j/)에서 다운로드
 
-![]()
-
->ㅇ
-
->[!note] 콜아웃
+> 설치도 안 했는데 해결이 되었다??
+> 머지???
 
 ___
 

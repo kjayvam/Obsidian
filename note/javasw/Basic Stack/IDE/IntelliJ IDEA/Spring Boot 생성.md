@@ -15,7 +15,8 @@ spring initializr에서 원하는 것을 선택
 
 ![[Pasted image 20230812101140.png]]
 버전 : SNAPSHOT, M1은 정식버전이 아닙니다. (불안전함)
-```
+
+``` java
 Web : 웹 프레임워크 및 톰캣 서버
 Mustache : Mustache 템플릿 엔진을 사용하여 뷰를 렌더링 (데이터와 템플릿이 분리)
 Thymeleaf : Thymeleaf 템플릿 엔진을 사용하여 뷰를 렌더링 (반복문, 조건문, 변수, 이벤트 처리 등의 로직을 템플릿에 포함)

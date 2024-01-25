@@ -12,7 +12,7 @@ ___
 	
 // 상위클래스
 
-```
+``` java
 abstract class Parent {
 	abstract void doSomething(); // 추상 메소드
 }
@@ -21,8 +21,7 @@ abstract class Parent {
 
 // 하위클래스
 
-```
-
+``` java
 class Child extends Parent {
     @Override
     void doSomething() {
@@ -33,7 +32,7 @@ class Child extends Parent {
 
 // 메인
 
-```
+``` java
 public class Main {
     public static void main(String[] args) {
         // Parent parent = new Parent(); // 이 부분은 오류를 발생시킵니다.
@@ -52,7 +51,7 @@ public class Main {
 
 // 상위클래스
 
-```
+``` java
 class Parent {
     int num = 10;
 
@@ -64,7 +63,7 @@ class Parent {
 
 // 하위클래스
 
-```
+``` java
 class Child extends Parent {
     int num = 20;
 
@@ -82,7 +81,7 @@ class Child extends Parent {
 
 // 메인
 
-```
+``` java
 public class Main {
     public static void main(String[] args) {
         Child child = new Child();
@@ -94,7 +93,7 @@ public class Main {
 
 // 출력
 
-```
+``` java
 Parent class method
 Child class method
 Child num: 20

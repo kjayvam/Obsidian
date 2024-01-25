@@ -4,12 +4,12 @@ ___
 
 ### 내용 : 
 
-> HTML은 src/main/resources/templates 디렉토리에 저장합니다.
+> HTML은 `src/main/resources/templates` 디렉토리에 저장합니다.
 > CSS는 `src/main/resources/static` 또는 `src/main/resources/public` 디렉토리에 저장합니다.
 > JS는 `src/main/resources/static` 또는 `src/main/resources/public` 디렉토리에 저장합니다.
 > images는 `src/main/resources/static` 또는 `src/main/resources/public` 디렉토리에 저장합니다.
 
-```
+``` java
 src
 └── main
     └── resources

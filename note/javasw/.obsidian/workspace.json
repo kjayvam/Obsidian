@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1add27f25da0c554",
+        "id": "c782d44760a87e1f",
         "type": "tabs",
         "children": [
           {
-            "id": "8fc0a46b98cf0cb6",
+            "id": "9015408290919519",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3032591da9e5d7c4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1f54dcf43ad3f1bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exception/Spring Boot/Using generated security password.md",
+                "file": "Basic Stack/IDE/IntelliJ IDEA/단축키.md",
                 "mode": "preview",
                 "source": true
               }
@@ -66,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#스키마생성",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
+                "file": "Basic Stack/Framework/Spring Boot/어노테이션 SpringBoot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
+                "file": "Basic Stack/Framework/Spring Boot/어노테이션 SpringBoot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md"
+                "file": "Basic Stack/Framework/Spring Boot/어노테이션 SpringBoot.md"
               }
             }
           },
@@ -159,7 +141,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,52 +159,126 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "8fc0a46b98cf0cb6",
+  "floating": {
+    "id": "aa95fc6817e5e3fb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "28c0d0990cd7059e",
+        "type": "window",
+        "children": [
+          {
+            "id": "31f604cff6f75747",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fe8abd9b01b63e2c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Basic Stack/Framework/Spring Boot/어노테이션 JPA.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "8474c67c23f82b2b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f99efdd9f2014d1a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Basic Stack/Framework/Spring Boot/어노테이션 Lombok.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "0c7052ca1c448c77",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4581597cde13b8c7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Basic Stack/Framework/Spring Boot/어노테이션 SpringBoot.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3509,
+        "y": -22,
+        "width": 600,
+        "height": 960,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "4581597cde13b8c7",
   "lastOpenFiles": [
-    "Exception/Spring Boot/Using generated security password.md",
-    "Exception/Spring Boot/처음 실행 시 Exception.md",
-    "Exception/0.이미지/Pasted image 20240115165609.png",
-    "Exception/Spring Boot/Cannot find template.md",
-    "Exception/Spring Boot/springsecurity6 오류.md",
-    "Exception/Spring Boot/로그인 페이지로 자동 이동.md",
-    "Exception/Spring Boot/org.mariadb.jdbc.Driver.md",
+    "Basic Stack/Framework/Spring Boot/어노테이션 Lombok.md",
+    "Basic Stack/Framework/Spring Boot/어노테이션 JPA.md",
+    "Basic Stack/Framework/Spring Boot/어노테이션 SpringBoot.md",
+    "Basic Stack/IDE/IntelliJ IDEA/단축키.md",
+    "Basic Stack/IDE/IntelliJ IDEA/플러그인.md",
+    "Exception/Spring Boot/class file version.md",
+    "Exception/Spring Boot/context initialization.md",
     "Exception/Spring Boot/DataSource 해결방안.md",
-    "Exception/Spring Boot/context Exception.md",
+    "Exception/Spring Boot/Cannot find template.md",
+    "Exception/Spring Boot/처음 실행 시 Exception.md",
+    "Exception/Spring Boot/로그인 페이지로 자동 이동.md",
+    "Basic Stack/DevOps/cloudtype(클라우드타입).md",
+    "Basic Stack/IDE/IntelliJ IDEA/IntelliJ 설치.md",
+    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot 생성.md",
     "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
+    "Basic Stack/DevOps/0.DevOps.md",
+    "Basic Stack/DevOps",
+    "0.index/취준생 시절 꼭 해야 할 3가지.md",
+    "0.index/템플릿 연습.md",
+    "Basic Stack/SQL/MariaDB/MariaDB 설치.md",
+    "Basic Stack/SQL/MariaDB/데이터베이스(스키마) 및 테이블 생성 방법.md",
+    "Basic Stack/SQL/MariaDB/MariaDB 설치 1.md",
+    "Exception/Spring Boot/org.mariadb.jdbc.Driver.md",
+    "Exception/0.이미지/Pasted image 20240115141154.png",
+    "Exception/IntelliJ IDEA/인텔리제이 한글 깨짐.md",
+    "Exception/Spring Boot/springsecurity6 오류.md",
+    "Exception/Spring Boot/Using generated security password.md",
+    "Exception/IntelliJ IDEA/JMX service URL 에러.md",
+    "Exception/0.이미지/Pasted image 20240117160708.png",
+    "Exception/0.이미지/Pasted image 20240117152521.png",
+    "Exception/0.이미지/Pasted image 20240115165609.png",
     "Exception/0.이미지/Pasted image 20240115161434.png",
     "Exception/0.이미지/Pasted image 20240115152327.png",
     "Exception/0.이미지/Pasted image 20240115161411.png",
     "Exception/0.이미지/Pasted image 20240115163901.png",
-    "Exception/IntelliJ IDEA/인텔리제이 한글 깨짐.md",
-    "Exception/0.이미지/Pasted image 20240115141154.png",
     "Exception/0.이미지/Pasted image 20240115141343.png",
-    "Basic Stack/SQL/MariaDB/데이터베이스(스키마) 및 테이블 생성 방법.md",
-    "0.Template/Zettelkasten.md",
-    "0.index/템플릿 연습.md",
-    "Basic Stack/SQL/MariaDB/MariaDB 설치.md",
-    "Basic Stack/SQL/MariaDB/0.MariaDB란.md",
     "Exception/0.이미지/Pasted image 20230812125603.png",
-    "Basic Stack/SQL/Oracle/오라클 Port 번호 및 SID 확인 방법.md",
-    "Basic Stack/SQL/Oracle/Oracle SQL Developer.md",
-    "Basic Stack/SQL/Oracle/0.오라클(Oracle)란.md",
-    "Basic Stack/Language/Markup/HTML/마크업 작성 방법.md",
-    "Basic Stack/Language/JAVA/0.자바란.md",
-    "Basic Stack/Framework/Bootstrap/0.Bootstrap.md",
-    "Basic Stack/Framework/Bootstrap/Bootstrap Download.md",
-    "Basic Stack/Framework/Bootstrap/Bootstrap Template.md",
     "Basic Stack/Framework/Bootstrap 1",
-    "Basic Stack/SQL/MariaDB/0.이미지/Pasted image 20240115100503.png",
     "Basic Stack/SQL/MariaDB/0.이미지",
     "Basic Stack/SQL/MariaDB",
-    "Basic Stack/IDE/IntelliJ IDEA/기본설정.md",
-    "Basic Stack/IDE/IntelliJ IDEA/세로줄 없애기.md",
-    "Basic Stack/IDE/IntelliJ IDEA/0.이미지/Pasted image 20231230010413.png",
     "Exception/IntelliJ IDEA",
     "Basic Stack/VCS/Git/GUI",
     "Exam/정보처리기사/실기",
     "Exam/정보처리기사/필기",
     "Exam/정보처리기사",
-    "Exam/SQLD",
-    "Exam"
+    "Exam/SQLD"
   ]
 }

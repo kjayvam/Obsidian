@@ -10,7 +10,7 @@ ___
 
 ![[Pasted image 20240115165609.png]]
 
-```
+``` java
 Using generated security password: ???
 
 This generated password is for development use only. Your security configuration must be updated before running your application in production.
@@ -35,7 +35,7 @@ This generated password is for development use only. Your security configuration
 ### 해결방안 : 
 
 > application.properties에서 
-> ```
+> ``` java
 > spring.security.user.password=패스워드
 > ```
 > 추가 하면 됩니다.

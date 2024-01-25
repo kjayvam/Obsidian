@@ -6,7 +6,7 @@ ___
 
 ![[Pasted image 20230812111228.png]]
 
-```
+``` java
 no matching variant of org.springframework.boot:spring-boot-gradle-plugin:3.1.2 was found.
 
 the consumer was configured to find a library for use during runtime, compatible with java 8, packaged as a jar, and its dependencies declared externally, as well as attribute 'org.grale.plugin.api-version' with value '8.2.1' but:
