@@ -63,6 +63,84 @@ ___
 > }
 > ```
 
+>[!note] @JoinColumn (name="user_id")
+>
+> 엔티티 간의 관계를 매핑할 때 사용
+> 외래키 매핑에 사용
+
+>[!note] @ManyToOne
+>
+> - 다대일(N:1) 관계를 매핑할 때 사용
+> - Foreign Key가 있는 쪽에 추가
+> - 예) 포스트 엔티티에서 사용자 엔티티를 참조할 때
+
+>[!note] @OneToOne
+>
+> - 일대일(1:1) 관계를 매핑할 때 사용
+> - 주 테이블이나 대상 테이블 둘 중 하나에 FK를 두고 매핑 가능
+> - 주로 주 테이블에 FK를 두는 것이 편리
+> - 예) 사용자 엔티티에서 보안정보 엔티티를 1:1로 연관 지을 때 사용
+
+>[!note] @Query
+> 
+> @Query를 사용하면 리포지토리 인터페이스에 직접 JPQL이나 네이티브 SQL을 정의할 수 있습니다. 
+> 즉, 커스텀한 쿼리를 작성할 수 있다는 장점이 있습니다.
+> 
+> ```java
+> public interface UserRepository extends JpaRepository<User, Long> {
+> 	// JPQL을 활용한 커스텀 쿼리 예제
+> 	@Query("SELECT u FROM User u WHERE u.name = ?1 AND u.age > ?2") 
+> 	List<User> findUsers(String name, int age);
+> 	// 네이티브 SQL을 활용한 예제
+> 	@Query(value = "SELECT * FROM USER WHERE AGE > ?1", nativeQuery = true)
+> 	 List<User> findUsersByNativeSql(int age); 
+>}
+> ```
+> 바인딩 변수 : 메소드 파라미터의 값을 동적으로 하여 쿼리에 주입하는 변수
+> 
+>> 인덱스 바인딩
+>
+>?1, ?2는 바인딩 변수(binding variable)를 의미 
+> 
+> 예제
+> 
+> ```java
+> @Query("SELECT u FROM User u WHERE u.name = ?1 AND u.age > ?2")
+> List<User> findUsers(String name, int age); 
+> // 메서드 호출
+>List<User> users = userRepository.findUsers("홍길동", 20);
+> ```
+> 
+> 실행
+> 
+> ```java
+> SELECT * FROM User u WHERE u.name = '홍길동' AND u.age > 20
+> ```
+> 
+> 바인딩 변수 사용의 장점은
+> 1. SQL 인젝션 공격을 방지할 수 있다
+> 2. 가독성이 높아진다
+> 
+>> 이름 바인딩
+>
+> :이름 바인딩 변수(binding variable)를 의미
+> 
+> 예제
+> 
+> ```java
+> @Query("SELECT u FROM User u WHERE u.name = :name AND u.age > :age")
+> List<User> findUsers(@Param("name") String name, @Param("age") int age);
+> ```
+> 
+> `@Param` 사용하여 JPQL의 바인딩 변수 이름과 메서드 파라미터 이름을 매핑합니다.
+> 이름 바인딩의 장점은 이름으로 표현되어 가독성이 높고, 코드 변경에 더욱 강건하다는 점입니다.
+> 그래서 보통 이름 바인딩 방식을 선호합니다. 제시해주신 코드도 문제 없이 동작할 것입니다.
+
+>[!note] @Modifying
+>
+> @Query을 사용할 때 insert, delete, update(select 제외) 쿼리를 사용할 때 반드시 사용해야 함
+
+
 >[!note] @EnableJpaAuditing
 >
 > Java에서 JPA를 사용하여 Entity-DB 테이블을 매핑할 때 공통적으로 도메인들이 가지고 있는 필드나 컬럼들이 존재하는데, 대표적으로 생성일자, 수정일자, 식별자 같은 필드 및 컬럼이 있다.  
@@ -105,7 +183,7 @@ ___
 
 ```java
 @Entity
-@Getter
+@Data
 @NoArgsConstructor
 public class Post extends Timestamped{
 	@Id

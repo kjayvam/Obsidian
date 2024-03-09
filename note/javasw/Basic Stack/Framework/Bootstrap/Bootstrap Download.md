@@ -25,7 +25,17 @@ ___
 ### 다운로드 : 
 
 > ![[Pasted image 20230817123830.png]]
+> 
 > 빨간 네모를 클릭 = Dos (문서) > Download (다운로드) > Download (다운로드)해서 원하는 위치에 압축을 해제 할 것.
+
+### 링크 : 
+
+[jsDelivr를 통한 CDN](https://getbootstrap.kr/docs/5.3/getting-started/download/#jsdelivr%eb%a5%bc-%ed%86%b5%ed%95%9c-cdn)
+
+> jsDelivr는 전세계에서 무료로 이용할 수 있는 CDN(Content Delivery Network) 서비스다. 
+> 전 세계 곳곳에 캐시 서버를 두고, 접속한 지역에서 가장 가까운 서버로부터 파일을 전송받게 되어 빠른 속도를 유지할 수 있다는 장점이 있습니다.
+> 
+> 즉, 다운로드를 하지 않고 사용하는 방법입니다.
 
 ___
 
