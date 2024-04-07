@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "73bd02749b1ca5f3",
+        "id": "5f58b4c97ce90b6c",
         "type": "tabs",
         "children": [
           {
-            "id": "53d92de8353757c4",
+            "id": "43142468bb100736",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Basic Stack/Framework/Bootstrap/클래스 (텍스트).md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(Modifying)",
+                "query": "tag:#클래스",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Basic Stack/Framework/Bootstrap/클래스 (텍스트).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Basic Stack/Framework/Bootstrap/클래스 (텍스트).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Basic Stack/Framework/Bootstrap/클래스 (텍스트).md"
+              }
             }
           },
           {
@@ -151,37 +159,39 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "53d92de8353757c4",
+  "active": "43142468bb100736",
   "lastOpenFiles": [
-    "Basic Stack/Framework/Spring Boot/어노테이션 JPA.md",
-    "Basic Stack/SQL/0.공통/DML.md",
-    "Basic Stack/SQL/0.공통/DDL.md",
-    "Basic Stack/SQL/0.공통/DCL.md",
-    "Basic Stack/Framework/Spring Boot/어노테이션 SpringBoot.md",
-    "Basic Stack/Framework/Spring Boot/어노테이션 Lombok.md",
+    "0.Template/Zettelkasten.md",
+    "Basic Stack/Framework/Bootstrap/클래스 (텍스트).md",
+    "Basic Stack/Framework/Bootstrap/클래스 breakpoint(중단점).md",
+    "Basic Stack/Framework/Bootstrap/클래스 패턴.md",
+    "Basic Stack/Framework/Bootstrap/클래스 정리.md",
+    "Basic Stack/Framework/Bootstrap/0.Bootstrap.md",
+    "Basic Stack/Framework/Bootstrap/클래스 Spacing(공백) 주기.md",
+    "Basic Stack/Framework/Bootstrap/Bootstrap Template.md",
+    "Basic Stack/Framework/Bootstrap/Bootstrap Download.md",
+    "Basic Stack/IDE/IntelliJ IDEA/플러그인.md",
+    "Basic Stack/IDE/IntelliJ IDEA/기본설정.md",
+    "Basic Stack/IDE/IntelliJ IDEA/단축키.md",
+    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
+    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot 생성.md",
+    "Basic Stack/IDE/IntelliJ IDEA/IntelliJ 설치.md",
+    "Basic Stack/Language/Markup/CSS/0.CSS.md",
+    "Basic Stack/Language/Markup/CSS/무제 파일.md",
+    "Basic Stack/Framework/Bootstrap/Pasted image 20240326131825.png",
+    "Basic Stack/VCS/Git/GUI/GitHub Desktop/Merge (병합).md",
+    "Basic Stack/VCS/Git/GUI/0.GUI.md",
     "Basic Stack/Framework/Spring Framework/Spring Security/어노테이션 Security.md",
-    "idea/SpringBoot/비밀번호 찾기 이메일 전송.md",
-    "idea/Markup/button 클릭이벤트.md",
+    "Basic Stack/Framework/Spring Framework/Spring Security/Security의 설정.md",
+    "Basic Stack/Framework/Spring Boot/어노테이션 SpringBoot.md",
+    "Basic Stack/Framework/Spring Boot/어노테이션 JPA.md",
+    "Basic Stack/Framework/Spring Boot/어노테이션 Lombok.md",
+    "Basic Stack/Framework/Spring Framework/Spring Security/0.Security.md",
+    "Basic Stack/Framework/Spring Framework/Spring Security/0.CSRF.md",
+    "Exception/Security",
     "idea/SpringBoot",
     "무제 폴더",
-    "Basic Stack/Framework/Spring Framework/Spring Security/Security의 설정.md",
-    "Basic Stack/Framework/Spring Framework/Spring Security/0.CSRF.md",
-    "Basic Stack/Framework/Spring Framework/Spring Security/BCryptPasswordEncoder.md",
-    "Basic Stack/Framework/Spring Framework/Spring Security/다중 로그인.md",
-    "Basic Stack/Framework/Spring Framework/Spring Security/0.Security.md",
-    "Basic Stack/Framework/Spring Framework/Spring Security/Security 버전별 구현 방법.md",
-    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
-    "Basic Stack/IDE/IntelliJ IDEA/단축키.md",
-    "Basic Stack/IDE/IntelliJ IDEA/기본설정.md",
-    "Basic Stack/Library/ModelMapper/ModelMapper setting.md",
-    "Basic Stack/Library/ModelMapper/0.ModelMapper.md",
-    "0.Template/Zettelkasten.md",
-    "Basic Stack/Library/Thymeleaf/0.Thymeleaf.md",
-    "Basic Stack/Library/0.Template Engine.md",
-    "Exception/Spring Boot/class file version.md",
     "Basic Stack/Library/ModelMapper",
-    "Exception/Spring Boot/context initialization.md",
-    "Exception/Spring Boot/springsecurity6 오류.md",
     "Basic Stack/Framework/Spring Framework/Spring Security",
     "Basic Stack/VCS/Git/0.이미지/Pasted image 20230812103639.png",
     "Basic Stack/VCS/Git/0.이미지/Pasted image 20230812103633.png",
@@ -195,9 +205,7 @@
     "Exception/0.이미지/Pasted image 20240115165609.png",
     "Exception/0.이미지/Pasted image 20240115161434.png",
     "Exception/0.이미지/Pasted image 20240115152327.png",
-    "Exception/0.이미지/Pasted image 20240115161411.png",
     "Basic Stack/Framework/Bootstrap 1",
-    "Basic Stack/SQL/MariaDB/0.이미지",
-    "Basic Stack/SQL/MariaDB"
+    "Basic Stack/SQL/MariaDB/0.이미지"
   ]
 }
