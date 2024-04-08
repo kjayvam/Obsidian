@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5f58b4c97ce90b6c",
+        "id": "f938af1c17c4ca19",
         "type": "tabs",
         "children": [
           {
-            "id": "43142468bb100736",
+            "id": "76ac9ff0b4396a7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Stack/Framework/Bootstrap/클래스 (텍스트).md",
+                "file": "Exam/정보처리기사/실기/8장.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Stack/Framework/Bootstrap/클래스 (텍스트).md",
+                "file": "Exam/정보처리기사/실기/8장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Stack/Framework/Bootstrap/클래스 (텍스트).md",
+                "file": "Exam/정보처리기사/실기/8장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Stack/Framework/Bootstrap/클래스 (텍스트).md"
+                "file": "Exam/정보처리기사/실기/8장.md"
               }
             }
           },
@@ -159,13 +159,29 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "43142468bb100736",
+  "active": "c908b79db79b2b99",
   "lastOpenFiles": [
-    "0.Template/Zettelkasten.md",
-    "Basic Stack/Framework/Bootstrap/클래스 (텍스트).md",
+    "0.초기화폴더",
+    "Exam/정보처리기사/필기/~$정처기.docx",
+    "0.초기화폴더/정리 안했음",
+    "0.초기화폴더/정리 안했음/SQLD 요약.pdf",
+    "0.초기화폴더/정리 안했음/SQLD 요약.docx",
+    "0.초기화폴더/정리 안했음/SQLD.docx",
+    "0.초기화폴더/정리 안했음/SQLD 2과목.docx",
+    "0.초기화폴더/정리 안했음/SQLD 1과목.docx",
+    "0.초기화폴더/정리 안했음/정처기.pdf",
+    "0.초기화폴더/정리 안했음/정처기.docx",
+    "Exam/정보처리기사/실기/7장.md",
+    "Exam/정보처리기사/실기/9장.md",
+    "Exam/정보처리기사/실기/8장.md",
+    "Exam/정보처리기사/실기/4장.md",
+    "Exam/정보처리기사/실기/2장.md",
+    "Exam/정보처리기사/실기/01.요약.md",
     "Basic Stack/Framework/Bootstrap/클래스 breakpoint(중단점).md",
     "Basic Stack/Framework/Bootstrap/클래스 패턴.md",
+    "Basic Stack/Framework/Bootstrap/클래스 (텍스트).md",
     "Basic Stack/Framework/Bootstrap/클래스 정리.md",
+    "0.Template/Zettelkasten.md",
     "Basic Stack/Framework/Bootstrap/0.Bootstrap.md",
     "Basic Stack/Framework/Bootstrap/클래스 Spacing(공백) 주기.md",
     "Basic Stack/Framework/Bootstrap/Bootstrap Template.md",
@@ -181,31 +197,15 @@
     "Basic Stack/Framework/Bootstrap/Pasted image 20240326131825.png",
     "Basic Stack/VCS/Git/GUI/GitHub Desktop/Merge (병합).md",
     "Basic Stack/VCS/Git/GUI/0.GUI.md",
-    "Basic Stack/Framework/Spring Framework/Spring Security/어노테이션 Security.md",
-    "Basic Stack/Framework/Spring Framework/Spring Security/Security의 설정.md",
-    "Basic Stack/Framework/Spring Boot/어노테이션 SpringBoot.md",
-    "Basic Stack/Framework/Spring Boot/어노테이션 JPA.md",
-    "Basic Stack/Framework/Spring Boot/어노테이션 Lombok.md",
-    "Basic Stack/Framework/Spring Framework/Spring Security/0.Security.md",
-    "Basic Stack/Framework/Spring Framework/Spring Security/0.CSRF.md",
     "Exception/Security",
-    "idea/SpringBoot",
-    "무제 폴더",
-    "Basic Stack/Library/ModelMapper",
-    "Basic Stack/Framework/Spring Framework/Spring Security",
     "Basic Stack/VCS/Git/0.이미지/Pasted image 20230812103639.png",
     "Basic Stack/VCS/Git/0.이미지/Pasted image 20230812103633.png",
     "Basic Stack/VCS/Git/0.이미지/Pasted image 20230812103335.png",
-    "Basic Stack/VCS/Git/GUI/GitHub Desktop",
-    "idea",
-    "Basic Stack/DevOps",
     "Exception/0.이미지/Pasted image 20240115141154.png",
     "Exception/0.이미지/Pasted image 20240117160708.png",
     "Exception/0.이미지/Pasted image 20240117152521.png",
     "Exception/0.이미지/Pasted image 20240115165609.png",
     "Exception/0.이미지/Pasted image 20240115161434.png",
-    "Exception/0.이미지/Pasted image 20240115152327.png",
-    "Basic Stack/Framework/Bootstrap 1",
-    "Basic Stack/SQL/MariaDB/0.이미지"
+    "Exception/0.이미지/Pasted image 20240115152327.png"
   ]
 }
