@@ -19,7 +19,6 @@ ___
 
 ### 출처(참고문헌)
 
-- [https://timotimo.tistory.com/57](https://timotimo.tistory.com/57)
 
 ___
 
