@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "5ace6e37cd8b6d14",
+        "id": "7f342373f1df511a",
         "type": "tabs",
         "children": [
           {
-            "id": "c014a7a87c86dab3",
+            "id": "7f4d6df6d0157a9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Stack/VCS/Git/GUI/GitHub Desktop/Merge (병합).md",
+                "file": "0.Template/Zettelkasten.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "900e0e3b22783f9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d715db5538485177",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0.Template/Zettelkasten.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic Stack/VCS/Git/GUI/GitHub Desktop/Merge (병합).md",
+                "file": "0.Template/Zettelkasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic Stack/VCS/Git/GUI/GitHub Desktop/Merge (병합).md",
+                "file": "0.Template/Zettelkasten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic Stack/VCS/Git/GUI/GitHub Desktop/Merge (병합).md"
+                "file": "0.Template/Zettelkasten.md"
               }
             }
           },
@@ -159,34 +177,34 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "c014a7a87c86dab3",
+  "active": "7f4d6df6d0157a9e",
   "lastOpenFiles": [
+    "0.Template/DMAIC.md",
+    "0.Template/Zettelkasten.md",
+    "0.Template/TRIZ (Theory of Inventive Problem Solving).md",
+    "0.Template/SWOT.md",
+    "0.Template/PSP (Personal Software Process).md",
+    "0.Template/PDCA.md",
+    "0.Template/Fishbone Diagram (Ishikawa Diagram).md",
+    "Exam/정보처리기사/실기/2장.md",
+    "Exam/정보처리기사/실기/01.요약.md",
+    "0.Template/McKinsey (맥킨지).md",
+    "idea/SpringBoot/비밀번호 찾기 이메일 전송.md",
+    "idea/Markup/button 클릭이벤트.md",
+    "Exception/Spring Boot/Using generated security password.md",
+    "Exception/Spring Boot/로그인 페이지로 자동 이동.md",
+    "Exception/Spring Boot/Cannot find template.md",
     "Basic Stack/VCS/Git/GUI/GitHub Desktop/Merge (병합).md",
     "Basic Stack/DevOps/cloudtype(클라우드타입).md",
     "Basic Stack/DevOps/0.DevOps.md",
     "Basic Stack/VCS/0.VCS.md",
     "Basic Stack/SQL/MariaDB/MariaDB 설치.md",
     "Basic Stack/SQL/MariaDB/데이터베이스(스키마) 및 테이블 생성 방법.md",
-    "0.Template/Zettelkasten.md",
     "Exception/Spring Boot/org.mariadb.jdbc.Driver.md",
     "Exception/Spring Boot/springsecurity6 오류.md",
-    "Exception/Spring Boot/Using generated security password.md",
-    "Exception/Spring Boot/로그인 페이지로 자동 이동.md",
     "Basic Stack/IDE/IntelliJ IDEA/프로젝트 구조.md",
     "Basic Stack/IDE/IntelliJ IDEA/단축키.md",
     "Basic Stack/IDE/IntelliJ IDEA/기본설정.md",
-    "Basic Stack/IDE/IntelliJ IDEA/0.IntelliJ.md",
-    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
-    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot 생성.md",
-    "Basic Stack/IDE/IntelliJ IDEA/IntelliJ 설치.md",
-    "Basic Stack/IDE/IntelliJ IDEA/플러그인.md",
-    "Basic Stack/Framework/Spring Framework/0.Spring Framework.md",
-    "Basic Stack/Framework/Spring Boot/0.Spring Boot.md",
-    "Basic Stack/Framework/Spring Boot/HTML, CSS, JS, images 저장위치.md",
-    "Basic Stack/Framework/Spring Boot/Scheduler.md",
-    "Basic Stack/Language/JAVA/JDK 설치.md",
-    "Basic Stack/VCS/Git/Git 설치.md",
-    "Basic Stack/Framework/Spring Framework/Spring Security/0.Security.md",
     "0.초기화폴더",
     "Exam/정보처리기사/필기/~$정처기.docx",
     "0.초기화폴더/정리 안했음",
