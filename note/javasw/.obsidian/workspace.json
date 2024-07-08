@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6939caab5a4b8a3f",
+        "id": "5ace6e37cd8b6d14",
         "type": "tabs",
         "children": [
           {
-            "id": "77295763bc4c3213",
+            "id": "c014a7a87c86dab3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Basic Stack/VCS/Git/GUI/GitHub Desktop/Merge (병합).md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#한글",
+                "query": "cloudtype",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Basic Stack/VCS/Git/GUI/GitHub Desktop/Merge (병합).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Basic Stack/VCS/Git/GUI/GitHub Desktop/Merge (병합).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Basic Stack/VCS/Git/GUI/GitHub Desktop/Merge (병합).md"
+              }
             }
           },
           {
@@ -151,34 +159,34 @@
       "templates:템플릿 삽입": false
     }
   },
-  "active": "77295763bc4c3213",
+  "active": "c014a7a87c86dab3",
   "lastOpenFiles": [
-    "Basic Stack/SQL/MariaDB/MariaDB 설치.md",
+    "Basic Stack/VCS/Git/GUI/GitHub Desktop/Merge (병합).md",
     "Basic Stack/DevOps/cloudtype(클라우드타입).md",
-    "Basic Stack/Framework/Spring Framework/Spring Security/0.Security.md",
-    "0.index/(x)Security.md",
-    "Basic Stack/Framework/Bootstrap/클래스 패턴.md",
-    "Basic Stack/Framework/Bootstrap/클래스 (텍스트).md",
-    "Basic Stack/Framework/Spring Boot/어노테이션 SpringBoot.md",
-    "Basic Stack/Framework/Spring Boot/HTML, CSS, JS, images 저장위치.md",
-    "Basic Stack/Framework/Spring Boot/Scheduler.md",
-    "Basic Stack/Framework/Spring Framework/Spring Security/0.CSRF.md",
-    "Basic Stack/Framework/0.Framework.md",
-    "Basic Stack/Framework/Spring Framework/0.Spring Framework.md",
-    "Basic Stack/IDE/IntelliJ IDEA/IntelliJ 설치.md",
-    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot 생성.md",
-    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
-    "Basic Stack/Library/0.Library.md",
-    "Basic Stack/Library/0.Template Engine.md",
+    "Basic Stack/DevOps/0.DevOps.md",
+    "Basic Stack/VCS/0.VCS.md",
+    "Basic Stack/SQL/MariaDB/MariaDB 설치.md",
     "Basic Stack/SQL/MariaDB/데이터베이스(스키마) 및 테이블 생성 방법.md",
-    "Basic Stack/SQL/MariaDB/0.MariaDB란.md",
-    "Exception/Spring Boot/Cannot find template.md",
-    "Exception/Spring Boot/class file version.md",
-    "Exception/Spring Boot/context initialization.md",
-    "Exception/Spring Boot/DataSource 해결방안.md",
+    "0.Template/Zettelkasten.md",
     "Exception/Spring Boot/org.mariadb.jdbc.Driver.md",
     "Exception/Spring Boot/springsecurity6 오류.md",
     "Exception/Spring Boot/Using generated security password.md",
+    "Exception/Spring Boot/로그인 페이지로 자동 이동.md",
+    "Basic Stack/IDE/IntelliJ IDEA/프로젝트 구조.md",
+    "Basic Stack/IDE/IntelliJ IDEA/단축키.md",
+    "Basic Stack/IDE/IntelliJ IDEA/기본설정.md",
+    "Basic Stack/IDE/IntelliJ IDEA/0.IntelliJ.md",
+    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot Setting.md",
+    "Basic Stack/IDE/IntelliJ IDEA/Spring Boot 생성.md",
+    "Basic Stack/IDE/IntelliJ IDEA/IntelliJ 설치.md",
+    "Basic Stack/IDE/IntelliJ IDEA/플러그인.md",
+    "Basic Stack/Framework/Spring Framework/0.Spring Framework.md",
+    "Basic Stack/Framework/Spring Boot/0.Spring Boot.md",
+    "Basic Stack/Framework/Spring Boot/HTML, CSS, JS, images 저장위치.md",
+    "Basic Stack/Framework/Spring Boot/Scheduler.md",
+    "Basic Stack/Language/JAVA/JDK 설치.md",
+    "Basic Stack/VCS/Git/Git 설치.md",
+    "Basic Stack/Framework/Spring Framework/Spring Security/0.Security.md",
     "0.초기화폴더",
     "Exam/정보처리기사/필기/~$정처기.docx",
     "0.초기화폴더/정리 안했음",
